@@ -1,0 +1,176 @@
+#+TITLE: M2A2 Assignment - Ethics
+
+* 24/7 Location Tracker
+
+  All groups work through the ethics case of a location based service for people
+  tracking 24/7 simply by adding a small tag to the person. The product is
+  marketed for tracking your small kids so that you know where they are.
+
+
+  1. Individuals Affected.
+
+     Anyone being tracked or having access to the data.
+
+  2. Groups Affected.
+
+     Organizations with access to the data and optionally third party actors.
+
+
+  3. Behaviour.
+
+     More controlling and interfering parents, but potentially less anxious.
+
+     Potentially safer childhood, but possibly less risk-aware young adults.
+
+  4. Relations.
+
+     See previous point.
+
+  5. World Views.
+
+     Given the current state of the world: no change expected.
+
+     However, on the condition that the use of these devices becomes a common
+     practice, it might be a moral responsibility for the parents to use them,
+     in contrast to how it is now.
+
+  6. Group Conflicts.
+
+     Conflicts between proponents of advocates of privacy such as the Electronic
+     Frontier Foundation (EFF) and the corporation.
+
+  7. Product or Service Failure.
+
+     Losing the kid - with the possible consequence of hysteria.
+
+  8. Problematic Use of Resources
+
+     Negligable environmental impact. Potentially more employment opportunities.
+
+  9. What Can We Do?
+
+     To tackle concerns in points 2, 6, and 8 we can have conditional sending of
+     data from the devices, such as only sending data during high levels of
+     stress or physical falls.
+
+     To tackle concerns in points 2, 7, and 8 we can increase the redundancy in
+     the system by introducing more devices (tags) and to address the privacy
+     concerns and redundancy, one could use distributed servers or local
+     servers.
+
+
+* Avatar Revival Services
+
+  Imagine a service, that after the passing of a loved one, can re-animate the
+  subject as a virtual avatar, with which you can interact in a meaningful way,
+  posthumously. What impacts would such a system or service have on individuals
+  and groups in our present day society?
+
+
+  1. Individuals Affected.
+
+     Close relatives and acquaintances to the deceased individual.
+
+     Potentially also affecting acquaintances to the user of the service, should
+     he or she become less socially engaged as a consequence of interacting with
+     the avatar.
+
+
+  2. Groups Affected.
+
+     Due to the tight interplay between religion and death, religious groups
+     might embrace the service or spark an outrage among some such groups.
+
+     Therapeutically, would this kind of tool be used to help individuals get
+     over the loss of a loved one? Or would it become the cause of symptoms that
+     would require treatment?
+
+
+  3. Behaviour.
+
+     How would elderly people behave, knowing that they might be able to teach
+     and contribute to society and their offspring posthumously? Would one like
+     to become an avatar sooner, knowing that one might be a burden at very old
+     age?
+
+     Could this type of service be used by employers to keep their top talent
+     around, posthumously? And potentially reducing the need to hire new
+     empolyees.
+
+
+  4. Relations.
+
+     Given the way things are today, considering a potential (religious)
+     afterlife, people might start behaving differently, since a new (virtual)
+     afterlife might exist.
+
+
+  5. World Views.
+
+     It might become the basis for new religions.
+
+
+  6. Group Conflicts.
+
+     See point 2.
+
+
+  7. Product or Service Failure.
+
+     - Temporary failure
+
+       Might make the clients more stressed emotionally, temporarily.
+
+     - Hacked avatars
+
+       A completely new tool to manipulate people emotionally and physically.
+
+     - Permanent loss of data
+
+       Could be equivalent genocide in a sense, depending to people's emotional
+       attachment.
+
+
+  8. Problematic Use of Resources
+
+     The service would be almost entirely digital, and would thus not
+     necessarily consume resources than what we do today.
+
+
+  1. What Can We Do?
+
+     - Is it a tool to get over one's loss? In which case it might be allowed
+       for use by e.g., psychologists.
+
+     - If not, should laws be put in place to ban these avatars?
+
+     - Since it could be used to manipulate people, data privacy and hacking
+       concerns needs to be addressed by e.g., encryption.
+
+
+* CRISPR Editing Services for Parents
+
+  Things to consider:
+
+  - Financial aspects?
+
+  - Only for the rich to stay rich?
+
+
+  1. Individuals Affected.
+
+  2. Groups Affected.
+
+  3. Behaviour.
+
+  4. Relations.
+
+  5. World Views.
+
+  6. Group Conflicts.
+
+  7. Product or Service Failure.
+
+  8. Problematic Use of Resources
+
+  9. What Can We Do?
