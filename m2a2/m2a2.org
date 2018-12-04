@@ -185,3 +185,40 @@
 
   9. What Can We Do?
      - A potential solution to this problem is either to restrict its development and use, or to do both within the framework of an international Manhattan-like project.
+
+AI-assisted robotic surgery:
+
+AI assisted robots can be used in surgical operations at hospitals.  The product is a robot that can help surgeons to decrease surgery time and increase performance of the  surgeries. 
+
+1- Individuals affected: 
+     Patients being surged with these robots and also surgeons 
+
+2- Groups affected:
+     Medical centers and hospitals who use these type of robots
+
+3- Behavior: 
+    More control of the surgeons over surgeries by reducing the number of errors that might happen during  surgeries
+
+4- Relations: 
+    Changing the surgeons habit to use AI assisted robots might be problematic, since there would be always resistance against change. 
+
+5- Worldviews: 
+     
+    No one’s role in the society would change but surgeons works would become easier. 
+
+6- Group conflicts: 
+    Surgeons in traditional surgeries have some human assistants and by using AI assisted robots, the relationship between human assistants and surgeons would become lower. 
+
+7- Product or service failure: 
+   
+ Potential impact of service failure is quite high in this case and in heart surgeries it might cause patient death.
+
+8-  Problematic use of resources: 
+    
+The product doesn’t have any climate or privacy impact. 
+
+9- What can we do? 
+    The most important impact of the product is points 2, 3 ,4 and 6. Changing the product design does not really help with these impacts but defining rules and regulations and standards would make these burdens easier. 
+   
+
+
