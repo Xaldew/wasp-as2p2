@@ -219,6 +219,57 @@ The product doesn’t have any climate or privacy impact.
 
 9- What can we do? 
     The most important impact of the product is points 2, 3 ,4 and 6. Changing the product design does not really help with these impacts but defining rules and regulations and standards would make these burdens easier. 
-   
 
+* Enviromental and societal impact of efficiently lab-grown meat
+    Meat produced in labs has quite recently made many headlines. However the cost of
+    growing meat in vitro still remains a limiting factor. As the price is decreasing
+    it could soon become economically viable to produce lab-grown meat, this canvas
+    explores such a potential future. 
+ 
+    1. Individuals affected:
+        Everyone in principle, both directly and indirect.
+    
+    2. Groups affected:
+        The food industry, meat industry in particular, and consumers including vegetarians. 
+        In the long run the human race through reduced climate impact.
+    
+    3. Behaviour:
+        Vegetarians would have the option to eat "vegan meat". It would become easier to 
+        go pseudo-vegetarian without sacrificing too much freedom.  It could further become
+        more socially acceptible in certain groups to go pseudo-vegetarian. However, certain
+        groups, such as some religious grups, could as seen regarding veganism today, 
+        form a stronger counter-culture emphasising eating real meat.   
+    
+    4. Relation:
+        Less demand for conventional meat would lead to fewer jobs within the agricultural 
+        sector. Unemployment induced anger could further fund the "real meat" counter-culture.
+        
+    5. Worldviews:
+        If the option exists to eat meat not produced from animals, then it would 
+        be both a benefit from an ethics and a enviromental point of view. Thus the 
+        societal pressure on individuals to choose the "vegan" alternative would most
+        likely increase. Especially if it's cheaper, then opponents could be regarded 
+        as luddites who makes an active, costly choice to eat real meat.
 
+    6. Group Conflicts:
+        See 4. Further, the meat industry would most likely either adapt to change and
+        produce lab-grown meat or feel pressured.
+
+    7. Prodict or service failure:
+        If the lab-grown meat turns out to be less nutrituous, healthy or tasty than 
+        conventional meat, it would most likely be heavily attacked by intrests groups
+        such as the meat industry.
+
+    8. Problematic use of resources:  
+        Lab-grown meat would reduce the enviromental impact of animal farming, as the
+        end product would consume less energy (and thus less food). Methane emissions would
+        further drop. Reduced food production demand would affect the agricultural sector 
+        with fewer jobs, altough the procedure would most likely attract more high skilled
+        job opportunities on the biotech sector. 
+    
+    9. What can we do?
+        Increased funding and subsidies in the beginning, to make lab-grown meat 
+        economically viable. Intensive studies and regulations to ensure that it is
+        as safe/healthy/tasty as regular meat. Programs and subsidies to help affected 
+        farmers adapt and to steer the meat industry in the right direction.
+        
