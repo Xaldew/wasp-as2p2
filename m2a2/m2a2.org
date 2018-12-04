@@ -186,7 +186,7 @@
   9. What Can We Do?
      - A potential solution to this problem is either to restrict its development and use, or to do both within the framework of an international Manhattan-like project.
 
-AI-assisted robotic surgery:
+* AI-assisted robotic surgery:
 
 AI assisted robots can be used in surgical operations at hospitals.  The product is a robot that can help surgeons to decrease surgery time and increase performance of the  surgeries. 
 
