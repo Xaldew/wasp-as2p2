@@ -1,4 +1,6 @@
 #+TITLE: M2A2 Assignment - Ethics
+#+AUTHOR: Gustaf Waldemarson, Marcus Greiff, Pegah Nikbakht Bideh, Johan Ruuskanen
+
 
 * 24/7 Location Tracker
 
@@ -9,54 +11,54 @@
 
   1. Individuals Affected.
 
-     Anyone being tracked or having access to the data.
+     - Anyone being tracked or having access to the data.
 
   2. Groups Affected.
 
-     Organizations with access to the data and optionally third party actors.
-
+     - Organizations with access to the data and optionally third party actors.
 
   3. Behaviour.
 
-     More controlling and interfering parents, but potentially less anxious.
+     - More controlling and interfering parents, but potentially less anxious.
 
-     Potentially safer childhood, but possibly less risk-aware young adults.
+     - Potentially safer childhood, but possibly less risk-aware young adults.
 
   4. Relations.
 
-     See previous point.
+     - See previous point.
 
-  5. World Views.
+  5. Worldviews.
 
-     Given the current state of the world: no change expected.
+     - Given the current state of the world: no change expected.
 
-     However, on the condition that the use of these devices becomes a common
-     practice, it might be a moral responsibility for the parents to use them,
-     in contrast to how it is now.
+     - However, on the condition that the use of these devices becomes a common
+       practice, it might be a moral responsibility for the parents to use them,
+       in contrast to how it is now.
 
   6. Group Conflicts.
 
-     Conflicts between proponents of advocates of privacy such as the Electronic
-     Frontier Foundation (EFF) and the corporation.
+     - Conflicts between proponents of advocates of privacy such as the
+       Electronic Frontier Foundation (EFF) and the corporation.
 
   7. Product or Service Failure.
 
-     Losing the kid - with the possible consequence of hysteria.
+     - Losing the kid - with the possible consequence of hysteria among parents.
 
   8. Problematic Use of Resources
 
-     Negligable environmental impact. Potentially more employment opportunities.
-
+     - Negligable environmental impact. Potentially more employment
+       opportunities.
+     
   9. What Can We Do?
 
-     To tackle concerns in points 2, 6, and 8 we can have conditional sending of
-     data from the devices, such as only sending data during high levels of
-     stress or physical falls.
+     - To tackle concerns in points 2, 6, and 8 we can have conditional sending
+       of data from the devices, such as only sending data during high levels of
+       stress or physical falls.
 
-     To tackle concerns in points 2, 7, and 8 we can increase the redundancy in
-     the system by introducing more devices (tags) and to address the privacy
-     concerns and redundancy, one could use distributed servers or local
-     servers.
+     - To tackle concerns in points 2, 7, and 8 we can increase the redundancy
+       in the system by introducing more devices (tags) and to address the
+       privacy concerns and redundancy, one could use distributed servers or
+       local servers.
 
 
 * Avatar Revival Services
@@ -69,75 +71,67 @@
 
   1. Individuals Affected.
 
-     Close relatives and acquaintances to the deceased individual.
+     - Close relatives and acquaintances to the deceased individual.
 
-     Potentially also affecting acquaintances to the user of the service, should
-     he or she become less socially engaged as a consequence of interacting with
-     the avatar.
-
+     - Potentially also affecting acquaintances to the user of the service,
+       should he or she become less socially engaged as a consequence of
+       interacting with the avatar.
 
   2. Groups Affected.
 
-     Due to the tight interplay between religion and death, religious groups
-     might embrace the service or spark an outrage among some such groups.
+     - Due to the tight interplay between religion and death, religious groups
+       might embrace the service or spark an outrage among some such groups.
 
-     Therapeutically, would this kind of tool be used to help individuals get
-     over the loss of a loved one? Or would it become the cause of symptoms that
-     would require treatment?
-
+     - Therapeutically, would this kind of tool be used to help individuals get
+       over the loss of a loved one? Or would it become the cause of symptoms
+       that would require treatment?
 
   3. Behaviour.
 
-     How would elderly people behave, knowing that they might be able to teach
-     and contribute to society and their offspring posthumously? Would one like
-     to become an avatar sooner, knowing that one might be a burden at very old
-     age?
+     - How would elderly people behave, knowing that they might be able to teach
+       and contribute to society and their offspring posthumously? Would one
+       like to become an avatar sooner, knowing that one might be a burden at
+       very old age?
 
-     Could this type of service be used by employers to keep their top talent
-     around, posthumously? And potentially reducing the need to hire new
-     empolyees.
-
+     - Could this type of service be used by employers to keep their top talent
+       around, posthumously? And potentially reducing the need to hire new
+       empolyees.
 
   4. Relations.
 
-     Given the way things are today, considering a potential (religious)
-     afterlife, people might start behaving differently, since a new (virtual)
-     afterlife might exist.
+     - Given the way things are today, considering a potential (religious)
+       afterlife, people might start behaving differently, since a new (virtual)
+       afterlife might exist.
 
+  5. Worldviews.
 
-  5. World Views.
-
-     It might become the basis for new religions.
-
+     - It might become the basis for new religions.
 
   6. Group Conflicts.
 
-     See point 2.
-
+     - See point 2.
 
   7. Product or Service Failure.
 
      - Temporary failure
 
-       Might make the clients more stressed emotionally, temporarily.
+       - Might make the clients more stressed emotionally, temporarily.
 
      - Hacked avatars
 
-       A completely new tool to manipulate people emotionally and physically.
+       - A completely new tool to manipulate people emotionally and physically.
 
      - Permanent loss of data
 
-       Could be equivalent genocide in a sense, depending to people's emotional
-       attachment.
-
+       - Could be equivalent genocide in a sense, depending to people's
+         emotional attachment.
 
   8. Problematic Use of Resources
 
-     The service would be almost entirely digital, and would thus not
-     necessarily consume resources than what we do today.
+     - The service would be almost entirely digital, and would thus not
+       necessarily consume resources than what we do today.
 
-
-  1. What Can We Do?
+  9. What Can We Do?
 
      - Is it a tool to get over one's loss? In which case it might be allowed
        for use by e.g., psychologists.
@@ -150,126 +144,177 @@
 
 * CRISPR Editing Services for Parents
 
-  Things to consider:
+  At a very basic level, CRISPR viral/biological tool for very accurately
+  changing DNA structure in living cells and thus opens up the door for a very
+  wide array of use-cases.
 
-  - Financial aspects?
+  One such, is using CRISPR to change the human DNA in embryos, possibly
+  removing risks of hereditary diseases, or changing other known parts of the
+  DNA to improve some personal attribute. There are however a lot of things one
+  need to consider before embarking there are a number of aspects that must be
+  considered.
 
-  - Only for the rich to stay rich?
 
   1. Individuals Affected.
-  
-     - Every person born in every generation after the introduction of the technology, wether they're exposed to the technology or not.
-     - All future parents. Would you have the same emotional attachment to the child knowing that it is not your own in a strict biological sense?
+
+     - Every person born in every generation after the introduction of the
+       technology, wether they're exposed to the technology or not.
+
+     - All future parents. Would you have the same emotional attachment to the
+       child knowing that it is not your own in a strict biological sense?
 
   2. Groups Affected.
-     - Genetical arms race; nations vs. nations, and corporations vs. corporations. 
-     - Tampering with the natural order of things, Gods creations, might provoke (and already provokes) various religious groups.
+     - May trigger a genetic arms race; we might pit nations vs. nations, or
+       corporations vs. corporations, who can hire the best genetically
+       engineered soliders/employees?
+
+     - Tampering with the natural order of things, Gods creations, might provoke
+       (and already provokes) various religious groups.
 
   3. Behaviour.
-     - How would you interact with your child knowing that he/she will supersede yourself in many imaginable ways? At which age would you become the child of your child?
+     - How would you interact with your child knowing that he/she will supersede
+       yourself in many imaginable ways? At which age would you become the child
+       of your child?
 
   4. Relations.
-     - The dynamics between parents and children will change. 
+     - The dynamics between parents and children will change.
 
-  5. World Views.
-     - The use of this technology could lead to a new form of racism in either direction, more than likely, the people not exposed to the technology would despise the users of the technology due to their advantages in life.
+  5. Worldviews.
+     - The use of this technology could lead to a new form of racism in either
+       direction, more than likely, the people not exposed to the technology
+       would despise the users of the technology due to their advantages in
+       life.
 
   6. Group Conflicts.
      - See 5.
-     
+
   7. Product or Service Failure.
-     - Our genome has evolved over long periods of time to establish a resistance to contingent dangers. If we radically change our genome, we might expose ourselves to unforeseeable dangers in terms of viruses, diseases, et.c.
+     - Our genome has evolved over long periods of time to establish a
+       resistance to contingent dangers. If we radically change our genome, we
+       might expose ourselves to unforeseeable dangers in terms of viruses,
+       diseases, etc.
 
   8. Problematic Use of Resources
-     - Would likely increase longevity of the subjects, which would make the average human life expend more resources during a lifetime.
+     - Would likely increase longevity of the subjects, which would make the
+       average human life expend more resources during a lifetime.
 
   9. What Can We Do?
-     - A potential solution to this problem is either to restrict its development and use, or to do both within the framework of an international Manhattan-like project.
+     - A potential solution to this problem is either to restrict its
+       development and use, or to do both within the framework of an
+       international Manhattan-like project.
+
 
 * AI-assisted robotic surgery:
 
-AI assisted robots can be used in surgical operations at hospitals.  The product is a robot that can help surgeons to decrease surgery time and increase performance of the  surgeries. 
+  AI assisted robots can be used in surgical operations at hospitals. The
+  product is a robot that can help surgeons to decrease surgery time and
+  increase performance of the surgeries.
 
-1- Individuals affected: 
-     Patients being surged with these robots and also surgeons 
+  1. Individuals affected:
 
-2- Groups affected:
+     Patients being surged with these robots and also surgeons
+
+  2. Groups affected:
+
      Medical centers and hospitals who use these type of robots
 
-3- Behavior: 
-    More control of the surgeons over surgeries by reducing the number of errors that might happen during  surgeries
+  3. Behavior:
 
-4- Relations: 
-    Changing the surgeons habit to use AI assisted robots might be problematic, since there would be always resistance against change. 
+     More control of the surgeons over surgeries by reducing the number of
+     errors that might happen during surgeries
 
-5- Worldviews: 
-     
-    No one’s role in the society would change but surgeons works would become easier. 
+  4. Relations:
 
-6- Group conflicts: 
-    Surgeons in traditional surgeries have some human assistants and by using AI assisted robots, the relationship between human assistants and surgeons would become lower. 
+     Changing the surgeons habit to use AI assisted robots might be problematic,
+     since there would be always resistance against change.
 
-7- Product or service failure: 
-   
- Potential impact of service failure is quite high in this case and in heart surgeries it might cause patient death.
+  5. Worldviews:
 
-8-  Problematic use of resources: 
-    
-The product doesn’t have any climate or privacy impact. 
+     No one’s role in the society would change but surgeons works would become
+     easier.
 
-9- What can we do? 
-    The most important impact of the product is points 2, 3 ,4 and 6. Changing the product design does not really help with these impacts but defining rules and regulations and standards would make these burdens easier. 
+  6. Group conflicts:
+
+     Surgeons in traditional surgeries have some human assistants and by using
+     AI assisted robots, the relationship between human assistants and surgeons
+     would become lower.
+
+  7. Product or service failure:
+
+     Potential impact of service failure is quite high in this case and in heart
+     surgeries it might cause patient death.
+
+  8. Problematic use of resources:
+
+     The product doesn’t have any climate or privacy impact.
+
+  9. What can we do?
+
+     The most important impact of the product is points 2, 3 ,4 and 6. Changing
+     the product design does not really help with these impacts but defining
+     rules and regulations and standards would make these burdens easier.
+
 
 * Enviromental and societal impact of efficiently lab-grown meat
-    Meat produced in labs has quite recently made many headlines. However the cost of
-    growing meat in vitro still remains a limiting factor. As the price is decreasing
-    it could soon become economically viable to produce lab-grown meat, this canvas
-    explores such a potential future. 
- 
-    1. Individuals affected:
-        Everyone in principle, both directly and indirect.
-    
-    2. Groups affected:
-        The food industry, meat industry in particular, and consumers including vegetarians. 
-        In the long run the human race through reduced climate impact.
-    
-    3. Behaviour:
-        Vegetarians would have the option to eat "vegan meat". It would become easier to 
-        go pseudo-vegetarian without sacrificing too much freedom.  It could further become
-        more socially acceptible in certain groups to go pseudo-vegetarian. However, certain
-        groups, such as some religious grups, could as seen regarding veganism today, 
-        form a stronger counter-culture emphasising eating real meat.   
-    
-    4. Relation:
-        Less demand for conventional meat would lead to fewer jobs within the agricultural 
-        sector. Unemployment induced anger could further fund the "real meat" counter-culture.
-        
-    5. Worldviews:
-        If the option exists to eat meat not produced from animals, then it would 
-        be both a benefit from an ethics and a enviromental point of view. Thus the 
-        societal pressure on individuals to choose the "vegan" alternative would most
-        likely increase. Especially if it's cheaper, then opponents could be regarded 
-        as luddites who makes an active, costly choice to eat real meat.
 
-    6. Group Conflicts:
-        See 4. Further, the meat industry would most likely either adapt to change and
-        produce lab-grown meat or feel pressured.
+  Meat produced in labs has quite recently made many headlines. However the cost
+  of growing meat in vitro still remains a limiting factor. As the price is
+  decreasing it could soon become economically viable to produce lab-grown meat,
+  this canvas explores such a potential future.
 
-    7. Prodict or service failure:
-        If the lab-grown meat turns out to be less nutrituous, healthy or tasty than 
-        conventional meat, it would most likely be heavily attacked by intrests groups
-        such as the meat industry.
+  1. Individuals affected:
 
-    8. Problematic use of resources:  
-        Lab-grown meat would reduce the enviromental impact of animal farming, as the
-        end product would consume less energy (and thus less food). Methane emissions would
-        further drop. Reduced food production demand would affect the agricultural sector 
-        with fewer jobs, altough the procedure would most likely attract more high skilled
-        job opportunities on the biotech sector. 
-    
-    9. What can we do?
-        Increased funding and subsidies in the beginning, to make lab-grown meat 
-        economically viable. Intensive studies and regulations to ensure that it is
-        as safe/healthy/tasty as regular meat. Programs and subsidies to help affected 
-        farmers adapt and to steer the meat industry in the right direction.
-        
+     Everyone in principle, both directly and indirect.
+
+  2. Groups affected:
+
+     The food industry, meat industry in particular, and consumers including vegetarians.
+     In the long run the human race through reduced climate impact.
+
+  3. Behaviour:
+
+     Vegetarians would have the option to eat "vegan meat". It would become easier to
+     go pseudo-vegetarian without sacrificing too much freedom.  It could further become
+     more socially acceptible in certain groups to go pseudo-vegetarian. However, certain
+     groups, such as some religious grups, could as seen regarding veganism today,
+     form a stronger counter-culture emphasising eating real meat.
+
+  4. Relation:
+
+     Less demand for conventional meat would lead to fewer jobs within the agricultural
+     sector. Unemployment induced anger could further fund the "real meat" counter-culture.
+
+  5. Worldviews:
+
+     If the option exists to eat meat not produced from animals, then it would
+     be both a benefit from an ethics and a enviromental point of view. Thus the
+     societal pressure on individuals to choose the "vegan" alternative would most
+     likely increase. Especially if it's cheaper, then opponents could be regarded
+     as luddites who makes an active, costly choice to eat real meat.
+
+  6. Group Conflicts:
+
+     See 4. Further, the meat industry would most likely either adapt to change and
+     produce lab-grown meat or feel pressured.
+
+  7. Product or service failure:
+
+     If the lab-grown meat turns out to be less nutrituous, healthy or tasty
+     than conventional meat, it would most likely be heavily attacked by
+     intrests groups such as the meat industry.
+
+  8. Problematic use of resources:
+
+     Lab-grown meat would reduce the enviromental impact of animal farming, as
+     the end product would consume less energy (and thus less food). Methane
+     emissions would further drop. Reduced food production demand would affect
+     the agricultural sector with fewer jobs, altough the procedure would most
+     likely attract more high skilled job opportunities on the biotech sector.
+
+  9. What can we do?
+
+     Increased funding and subsidies in the beginning, to make lab-grown meat
+     economically viable. Intensive studies and regulations to ensure that it is
+     as safe/healthy/tasty as regular meat. Programs and subsidies to help
+     affected farmers adapt and to steer the meat industry in the right
+     direction.
