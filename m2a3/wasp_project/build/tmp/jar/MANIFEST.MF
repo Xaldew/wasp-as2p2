@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: furhat-commons-0.3.4.jar slf4j-nop-1.7.25.jar log4j-core-2
+ .9.1.jar log4j-api-2.9.1.jar commons-lang-2.6.jar commons-io-2.5.jar 
+ minimal-json-0.9.4.jar groovy-all-2.4.12.jar mallet-2.0.8.jar univoci
+ ty-parsers-2.5.0.jar kotlin-stdlib-jdk8-1.2.20.jar kotlin-reflect-1.2
+ .20.jar kotlinx-coroutines-core-0.17.jar spark-core-2.6.0.jar gson-2.
+ 8.2.jar slf4j-api-1.7.25.jar junit-4.10.jar bsh-2.0b4.jar jgrapht-0.6
+ .0.jar jwnl-1.4_rc3.jar trove4j-2.0.2.jar mtj-0.9.14.jar jdom-1.1.jar
+  kotlin-stdlib-jdk7-1.2.20.jar kotlin-stdlib-1.2.20.jar jetty-webapp-
+ 9.4.4.v20170414.jar websocket-server-9.4.4.v20170414.jar jetty-servle
+ t-9.4.4.v20170414.jar jetty-security-9.4.4.v20170414.jar jetty-server
+ -9.4.4.v20170414.jar websocket-servlet-9.4.4.v20170414.jar hamcrest-c
+ ore-1.1.jar commons-logging-1.1.1.jar netlib-java-0.9.3.jar javax.ser
+ vlet-api-3.1.0.jar websocket-client-9.4.4.v20170414.jar jetty-client-
+ 9.4.4.v20170414.jar jetty-http-9.4.4.v20170414.jar websocket-common-9
+ .4.4.v20170414.jar jetty-io-9.4.4.v20170414.jar jetty-xml-9.4.4.v2017
+ 0414.jar websocket-api-9.4.4.v20170414.jar arpack_combined_all-0.1.ja
+ r jetty-util-9.4.4.v20170414.jar annotations-13.0.jar
+Main-Class: furhatos.app.wasp_project.Wasp_projectSkill
+
