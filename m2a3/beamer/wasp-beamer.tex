@@ -1,0 +1,54 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\title{WASP 2018 The Furhat Comedian}
+\date{2018-11-21}
+\author{Gustaf Waldemarson, Marcus Greiff, Pegah Nikbakht Bideh, Johan Ruuskanen}
+
+\usepackage{svg}
+\usepackage{graphicx}
+\usepackage{caption}
+
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.8}
+\usepackage{pgfplotstable}
+\usepgfplotslibrary{groupplots}
+
+\usetheme{wasp}
+
+\graphicspath{{./graphics/}}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+
+\begin{frame}{Conversation Graph}
+  \begin{figure}[ht]
+    \includegraphics[width=1.0\textwidth]{entry-graph}
+  \end{figure}
+\end{frame}
+
+
+\begin{frame}{Conversation Graph}
+  \begin{figure}[ht]
+    \includegraphics[width=1.0\textwidth]{joke-tracks}
+  \end{figure}
+\end{frame}
+
+
+\bgroup
+\setbeamertemplate{background}{}
+\setbeamercolor{background canvas}{bg=black}
+% \setbeamertemplate{navigation symbols}{}
+\begin{frame}[t,plain]{}{}
+  \begin{center}
+    {\tiny \textcolor{white}{The End}}
+  \end{center}
+\end{frame}
+\egroup
+
+\end{document}

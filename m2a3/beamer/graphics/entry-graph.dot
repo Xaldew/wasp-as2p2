@@ -1,0 +1,28 @@
+digraph {
+        1 -> 2;
+        2 -> 3;
+
+        // Knock-knock.
+        3 -> 4;
+
+        // Question-style joke.
+        3 -> 5;
+
+        // I don't know any jokes about that, but have you heard of...
+        3 -> 6;
+
+        // Direct statement punchlines.
+        3 -> 7;
+
+        1 [label="Approach"];
+        2 [label="Welcome"];
+        3 [label="Idle/Between Jokes"];
+
+        4 [label="Knock-Knock"];
+
+        5 [label="Question-joke"];
+
+        6 [label="Don't know"];
+
+        7 [label="Statement"];
+}

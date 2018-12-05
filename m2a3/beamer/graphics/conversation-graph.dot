@@ -1,0 +1,39 @@
+digraph {
+        1 -> 2;
+        2 -> 3;
+
+        // Knock-knock.
+        3 -> 4 -> 5 -> 6 -> 3;
+
+        // Question-style joke.
+        3 -> 7 -> 8 -> 13;  // No
+        7 -> 9 -> 11 -> 12 -> 13; // Yes
+        7 -> 10 -> 13; // Timeout
+        13 -> 3;
+
+        // I don't know any jokes about that, but have you heard of...
+        3 -> 14 -> 3;
+
+        // Direct statement punchlines.
+        3 -> 15 -> 3;
+
+        1 [label="Approach"];
+        2 [label="Welcome"];
+        3 [label="Idle/Between Jokes"];
+
+        4 [label="Knock-Knock"];
+        5 [label="Who's there?"];
+        6 [label="Punchline"];
+
+        7 [label="Question-joke"];
+        8 [label="No"];
+        9 [label="Yes"];
+        10 [label="Timeout"];
+        11 [label="What is it then?"];
+        12 [label="Ha, that's wrong!"];
+        13 [label="Punchline"];
+
+        14 [label="Don't know"];
+
+        15 [label="Statement"]
+}
