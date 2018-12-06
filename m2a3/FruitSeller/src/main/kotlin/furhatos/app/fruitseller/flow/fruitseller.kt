@@ -30,7 +30,9 @@ val Options = state(Interaction) {
 
     onResponse<DadJoke> {
         furhat.say("Excellent joke choice!")
-        goto(TellingDadJoke)
+        var joke = Joke(arrayOf("asd","asd2","asd3"), arrayOf(1000,1,1000))
+
+        goto(TellingJoke(joke))
     }
 
     onResponse<CuddlyJoke> {
@@ -91,6 +93,8 @@ val TellingCuddlyJoke = state(Interaction) {
 val TellingKnockJoke = state(Interaction) {
     onEntry {
         furhat.ask("Knock knock")
+        furhat.ask("Knock knock")
+        furhat.ask("Knock knock")
         goto(Idle)
     }
 
@@ -115,5 +119,21 @@ fun OrderReceived(fruits: FruitList) : State = state(Options) {
 
     onResponse<No> {
         furhat.say("Okay, here is your order of ${users.current.order.fruits}. Have a great day!")
+    }
+}
+
+
+fun TellingJoke(joke: Joke) : State = state(Options) {
+    onEntry {
+        for (i in joke.lines.indices) {
+            val (pauseTime, jokeLine) = joke.nextLine()
+            furhat.say(jokeLine)
+            delay(pauseTime)
+        }
+        goto(Idle)
+    }
+
+    onResponse<No> {
+        furhat.say("Are you not amused? Do not interrupt me, buzzkill")
     }
 }

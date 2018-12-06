@@ -44,6 +44,22 @@ class WhoIsThere: Intent() {
     }
 }
 
+class Joke(
+        var lines : Array<String>,
+        var pauses : Array<Long>
+){
+    var count = 0
+    fun nextLine() : Pair<Long,String>{
+        val out = Pair(pauses[count], lines[count])
+        if (count>=lines.size){
+            count = 0
+        } else {
+            count++
+        }
+        return out
+    }
+}
+
 class FruitList : ListEntity<QuantifiedFruit>()
 
 class QuantifiedFruit(
