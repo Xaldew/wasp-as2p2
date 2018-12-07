@@ -1,0 +1,14 @@
+16:07:44 [Skill] INFO  Skill:135 - Connecting to broker 10.1.168.20:1932...
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.FruitList:en in 1 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.QuantifiedFruit:en in 8 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.nlu.common.Number:en in 43 msec
+16:07:45 [FruitsellerSkill] WARN  CereprocVoice:133 - Volume has to be a String of a Double, for example "1.2" for a 20% increase of pitch.
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.Fruit:en in 14 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.BuyFruit:en in 23 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.DadJoke:en in 0 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.CuddlyJoke:en in 0 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.KnockJoke:en in 1 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.RequestOptions:en in 1 msec
+16:07:45 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.nlu.common.Yes:en in 0 msec
+16:08:20 [FruitsellerSkill] WARN  CereprocVoice:133 - Volume has to be a String of a Double, for example "1.2" for a 20% increase of pitch.
+16:08:30 [Thread-1] INFO  FruitsellerSkill:185 - Terminating skill...

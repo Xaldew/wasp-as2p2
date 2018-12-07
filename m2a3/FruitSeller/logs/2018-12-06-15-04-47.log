@@ -1,0 +1,12 @@
+15:04:47 [Skill] INFO  Skill:135 - Connecting to broker 10.1.168.20:1932...
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.FruitList:en in 1 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.QuantifiedFruit:en in 18 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.nlu.common.Number:en in 31 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.Fruit:en in 11 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.BuyFruit:en in 19 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.DadJoke:en in 0 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.CuddlyJoke:en in 0 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.KnockJoke:en in 0 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.RequestOptions:en in 0 msec
+15:04:48 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.nlu.common.Yes:en in 0 msec
+15:04:54 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.nlu.common.No:en in 0 msec

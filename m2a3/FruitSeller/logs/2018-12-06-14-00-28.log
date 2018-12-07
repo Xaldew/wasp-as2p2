@@ -1,0 +1,65 @@
+14:00:28 [Skill] INFO  Skill:135 - Connecting to broker 10.1.168.20:1932...
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.nlu.common.No:en in 28 msec
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.FruitList:en in 1 msec
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.QuantifiedFruit:en in 7 msec
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.nlu.common.Number:en in 8 msec
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 63 - Initialized entity furhatos.app.fruitseller.nlu.Fruit:en in 8 msec
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.BuyFruit:en in 0 msec
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.app.fruitseller.nlu.RequestOptions:en in 0 msec
+14:01:04 [pool-3-thread-1] INFO  EntityInterpreter: 48 - Initialized intent furhatos.nlu.common.Yes:en in 0 msec
+14:02:40 [FruitsellerSkill] ERROR TriggerRunner: 26 - java.lang.NumberFormatException: For input string: "9999999999"
+14:02:40 [ErrorLoggingThread] ERROR FruitsellerSkill:435 - java.lang.NumberFormatException: For input string: "9999999999"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:583)
+	at java.lang.Integer.parseInt(Integer.java:615)
+	at furhatos.nlu.common.NumberGrammarEnKt$NumberGrammarEn$1$1$1.invoke(NumberGrammarEn.kt:9)
+	at furhatos.nlu.common.NumberGrammarEnKt$NumberGrammarEn$1$1$1.invoke(NumberGrammarEn.kt)
+	at furhatos.nlu.kotlin.RuleBuilder$tag$1.invoke(grammar.kt:156)
+	at furhatos.nlu.kotlin.RuleBuilder$tag$1.invoke(grammar.kt:11)
+	at furhatos.nlu.grammar.KotlinTagEvaluator.eval(KotlinTagEvaluator.java:34)
+	at furhatos.nlu.grammar.RuleEdge.evalTags(RuleEdge.java:84)
+	at furhatos.nlu.grammar.RuleEdge.<init>(RuleEdge.java:57)
+	at furhatos.nlu.grammar.RuleEdge.matches(RuleEdge.java:186)
+	at furhatos.nlu.grammar.RuleEdge.matches(RuleEdge.java:132)
+	at furhatos.nlu.grammar.RuleEdge.matches(RuleEdge.java:119)
+	at furhatos.nlu.grammar.RuleEdge.matches(RuleEdge.java:203)
+	at furhatos.nlu.grammar.Parser.combine(Parser.java:88)
+	at furhatos.nlu.grammar.Parser.processAgenda(Parser.java:111)
+	at furhatos.nlu.grammar.Parser.parse(Parser.java:46)
+	at furhatos.nlu.GrammarInterpreter.interpret(GrammarInterpreter.java:20)
+	at furhatos.nlu.EntityChart.addEntity(EntityChart.java:34)
+	at furhatos.nlu.Intent.findEntityEdges(Intent.kt:58)
+	at furhatos.nlu.MultiIntentCandidate.findEntityEdges(MultiIntentCandidate.kt:25)
+	at furhatos.nlu.IdfMultiIntentClassifier.classify(IdfMultiIntentClassifier.kt:117)
+	at furhatos.flow.kotlin.ImplementationsKt$Listen$1$2.invoke(implementations.kt:38)
+	at furhatos.flow.kotlin.ImplementationsKt$Listen$1$2.invoke(implementations.kt)
+	at furhatos.flow.kotlin.TriggerRunner.run(TriggerRunner.kt:23)
+	at furhatos.flow.kotlin.Runner.runTrigger(Runner.kt:170)
+	at furhatos.flow.kotlin.Runner.runTrigger$default(Runner.kt:143)
+	at furhatos.flow.kotlin.StateRunner.reactToEvent(StateRunner.kt:223)
+	at furhatos.flow.kotlin.StateRunner.run(StateRunner.kt:66)
+	at furhatos.flow.kotlin.FlowControlRunner.tailRecRunCall(FlowControlRunner.kt:77)
+	at furhatos.flow.kotlin.FlowControlRunner.call(FlowControlRunner.kt:51)
+	at furhatos.flow.kotlin.Furhat.listen(Furhat.kt:150)
+	at furhatos.flow.kotlin.Furhat.listen$default(Furhat.kt:148)
+	at furhatos.flow.kotlin.ImplementationsKt$Ask$1$1.invoke(implementations.kt:110)
+	at furhatos.flow.kotlin.ImplementationsKt$Ask$1$1.invoke(implementations.kt)
+	at furhatos.flow.kotlin.StateRunner.runEntryTrigger(StateRunner.kt:168)
+	at furhatos.flow.kotlin.StateRunner.run(StateRunner.kt:56)
+	at furhatos.flow.kotlin.FlowControlRunner.tailRecRunCall(FlowControlRunner.kt:77)
+	at furhatos.flow.kotlin.FlowControlRunner.call(FlowControlRunner.kt:51)
+	at furhatos.flow.kotlin.Furhat.ask(Furhat.kt:390)
+	at furhatos.flow.kotlin.Furhat.ask(Furhat.kt:416)
+	at furhatos.flow.kotlin.Furhat.ask$default(Furhat.kt:415)
+	at furhatos.app.fruitseller.flow.FruitsellerKt$Options$1$2.invoke(fruitseller.kt:33)
+	at furhatos.app.fruitseller.flow.FruitsellerKt$Options$1$2.invoke(fruitseller.kt)
+	at furhatos.flow.kotlin.TriggerRunner.run(TriggerRunner.kt:23)
+	at furhatos.flow.kotlin.Runner.runTrigger(Runner.kt:170)
+	at furhatos.flow.kotlin.StateRunner.run(StateRunner.kt:52)
+	at furhatos.flow.kotlin.Flow.tailRecRun(Flow.kt:109)
+	at furhatos.flow.kotlin.Flow.run(Flow.kt:93)
+	at furhatos.app.fruitseller.FruitsellerSkill.start(main.kt:9)
+	at furhatos.skills.Skill.initializeSkill(Skill.java:170)
+	at furhatos.skills.Skill.lambda$startSkill$2(Skill.java:225)
+	at java.lang.Thread.run(Thread.java:748)
+
