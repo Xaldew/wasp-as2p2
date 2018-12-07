@@ -28,15 +28,42 @@
 
 \begin{frame}{Conversation Graph}
   \begin{figure}[ht]
-    \includegraphics[width=1.0\textwidth]{entry-graph}
+    \includegraphics[width=0.8\textwidth]{entry-graph}
   \end{figure}
 \end{frame}
 
 
-\begin{frame}{Conversation Graph}
+\begin{frame}{Joke Graph Examples}
   \begin{figure}[ht]
-    \includegraphics[width=1.0\textwidth]{joke-tracks}
+    \includegraphics[width=0.8\textwidth]{joke-tracks}
   \end{figure}
+\end{frame}
+
+
+\begin{frame}{Extendability}
+
+  \begin{itemize}
+  \item Adding new jokes is straightforward.
+  \item Could change the Furhat voice/expression depending on the joke.
+  \end{itemize}
+
+  \note{Some minor technical issues, such as handling the Furhat \texttt{flow()}
+    correctly for jokes of different kinds.}
+
+\end{frame}
+
+
+\begin{frame}{Issues}
+  \begin{itemize}
+  \item Vocal gestures, such as laughs, doesn't seem to work.
+    \begin{itemize}
+    \item Possibly incomplete documentation?
+    \item Workaround: Use embedded audio-clips.
+    \end{itemize}
+  \item Changing the Furhat voice occasionally removes the next \texttt{say()}
+    statement.
+  \item \texttt{Random()} statement did not work inside \texttt{onEntry()}.
+  \end{itemize}
 \end{frame}
 
 
